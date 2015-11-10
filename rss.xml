@@ -4,8 +4,15 @@
         <description><![CDATA[Vitamin on Da Grid]]></description>
         <link>https://thegrid.ai/vitamin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 17:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2015 08:43:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vitamin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test with Jake, Japan Man]]></title>
+            <description><![CDATA[<article><h1>Test with Jake, Japan Man</h1><p>Test with Jake</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a3ea18f-77e2-409f-bd78-210ee81d7409.jpg"></article>]]></description>
+            <link>https://thegrid.ai/vitamin/test-with-jake-japan-man/index.html</link>
+            <guid isPermaLink="false">26a315f1-1989-46a3-a6a5-a5155a8d1801</guid>
+            <pubDate>Tue, 10 Nov 2015 08:43:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Post 2!]]></title>
             <description><![CDATA[<article><h1>Post 2!</h1><p>Second post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76573f44-d07c-4d01-b32d-badb0f2b823d.jpg"></article>]]></description>
